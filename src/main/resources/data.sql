@@ -1,0 +1,1 @@
+insert into users values('re201','2019-06-30 12:00:30','revathi','rev@wipro.com','revathi','m','2020-06-30 12:00:30','rev');
