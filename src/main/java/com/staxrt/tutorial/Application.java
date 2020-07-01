@@ -10,7 +10,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
  * @author Givantha Kalansuriya
  */
 @SpringBootApplication
-public class Application {
+public class SpringAppApplication extends ServletInitializer {
 
   /**
    * The entry point of application.
